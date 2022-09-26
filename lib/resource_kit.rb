@@ -9,6 +9,7 @@ module ResourceKit
 
   autoload :Action, 'resource_kit/action'
   autoload :ActionInvoker, 'resource_kit/action_invoker'
+  autoload :InheritableAttribute, 'resource_kit/inheritable_attribute'
   autoload :MethodFactory, 'resource_kit/method_factory'
 
   autoload :StatusCodeMapper, 'resource_kit/status_code_mapper'
